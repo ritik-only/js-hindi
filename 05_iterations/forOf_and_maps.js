@@ -1,4 +1,4 @@
-// for of
+// forOf used for array
 
 // ["", "", ""]
 // [{}, {}, {}]

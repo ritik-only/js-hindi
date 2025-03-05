@@ -1,4 +1,4 @@
-//foreach
+//foreach used for array
 
 const coding = ["js", "ruby", "java", "python", "cpp"]
 // can write anything at place of val & item 
